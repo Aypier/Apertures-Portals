@@ -193,3 +193,4 @@ public class PortalBlock extends Block {
         entity.hurtMarked = true; // forces the velocity change to sync to clients
     }
 }
+test
