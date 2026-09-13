@@ -1,0 +1,13 @@
+{
+  "itemGroup.apertures_portals": "Example Mod Tab",
+  "block.apertures_portals.example_block": "Example Block",
+  "item.apertures_portals.example_item": "Example Item",
+
+  "apertures_portals.configuration.title": "Aperture's Portals Configs",
+  "apertures_portals.configuration.section.apertures_portals.common.toml": "Aperture's Portals Configs",
+  "apertures_portals.configuration.section.apertures_portals.common.toml.title": "Aperture's Portals Configs",
+  "apertures_portals.configuration.items": "Item List",
+  "apertures_portals.configuration.logDirtBlock": "Log Dirt Block",
+  "apertures_portals.configuration.magicNumberIntroduction": "Magic Number Text",
+  "apertures_portals.configuration.magicNumber": "Magic Number"
+}

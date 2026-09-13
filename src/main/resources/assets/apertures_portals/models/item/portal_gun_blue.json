@@ -1,0 +1,4 @@
+{
+  "parent": "apertures_portals:item/portal_gun",
+  "textures": { "1": "apertures_portals:item/portal_gun_blue" }
+}

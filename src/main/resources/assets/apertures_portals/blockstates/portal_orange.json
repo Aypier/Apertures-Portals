@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "facing=north,rotation=north": {
+      "model": "apertures_portals:block/portal_orange"
+    },
+    "facing=south,rotation=north": {
+      "model": "apertures_portals:block/portal_orange",
+      "y": 180
+    },
+    "facing=east,rotation=north": {
+      "model": "apertures_portals:block/portal_orange",
+      "y": 90
+    },
+    "facing=west,rotation=north": {
+      "model": "apertures_portals:block/portal_orange",
+      "y": 270
+    },
+    "facing=up,rotation=north": {
+      "model": "apertures_portals:block/portal_orange",
+      "x": 270,
+      "y": 180
+    },
+    "facing=up,rotation=east": {
+      "model": "apertures_portals:block/portal_orange",
+      "x": 270,
+      "y": 270
+    },
+    "facing=up,rotation=south": {
+      "model": "apertures_portals:block/portal_orange",
+      "x": 270
+    },
+    "facing=up,rotation=west": {
+      "model": "apertures_portals:block/portal_orange",
+      "x": 270,
+      "y": 90
+    },
+    "facing=down,rotation=north": {
+      "model": "apertures_portals:block/portal_orange",
+      "x": 90
+    },
+    "facing=down,rotation=east": {
+      "model": "apertures_portals:block/portal_orange",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down,rotation=south": {
+      "model": "apertures_portals:block/portal_orange",
+      "x": 90,
+      "y": 180
+    },
+    "facing=down,rotation=west": {
+      "model": "apertures_portals:block/portal_orange",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

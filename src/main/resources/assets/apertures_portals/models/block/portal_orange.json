@@ -1,0 +1,27 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "apertures_portals:block/portal_surface_orange_top",
+		"2": "apertures_portals:block/portal_surface_orange_bottom",
+		"particle": "apertures_portals:block/portal_surface_orange_top"
+	},
+	"elements": [
+		{
+			"from": [0, 16, 15.975],
+			"to": [16, 32, 15.975],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 14]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 15.975],
+			"to": [16, 16, 15.975],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -16, 14]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		}
+	]
+}
